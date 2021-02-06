@@ -1,4 +1,4 @@
-#include <stridio.h>
+#include <stdio.h>
 
 int main()
 {
